@@ -42,4 +42,7 @@ A | B | A>B |	A=B | A<B
 1 |	1 | 0 | 1 |	0	
 
 
-y^{SoP}_{A<B} = 1
+y^{SoP}_{A>B} = 1
+y^{SoP}_{A=B} = 1
+y^{PoS}_{A<B} = 0
+
