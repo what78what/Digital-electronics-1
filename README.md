@@ -34,7 +34,7 @@ Bunka 11 | Bunka 12
 Bunka 21 | Bunka 22
 
 
-*A* | *B* | *A>B* |	*A=B* | *A<B
+A | B | A>B |	A=B | A<B
 0 |	0 |	0 |	1 |	0
 0 |	1 | 0 | 0 | 1 			
 1 |	0 | 1 |	0	| 0	
